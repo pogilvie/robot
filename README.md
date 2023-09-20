@@ -1,3 +1,4 @@
+```
 robot/
 |-- resources/           # Directory for resource files (.robot)
 |   |-- common.robot
@@ -17,3 +18,4 @@ robot/
 |-- .gitignore           # Ignore file for git
 |-- requirements.txt     # Python dependencies
 `-- Makefile             # type Makefile to run tests
+```
